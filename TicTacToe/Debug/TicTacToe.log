@@ -1,0 +1,9 @@
+﻿  Credits.cpp
+  Game.cpp
+C:\Users\SAAd Kazmi\Downloads\(21L-1847) & (21L-5178)\(21L-1847) & (21L-5178)\TicTacToe\Game.cpp(9,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Loading.cpp
+  Opening.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Credits.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TicTacToe.vcxproj -> C:\Users\SAAd Kazmi\Downloads\(21L-1847) & (21L-5178)\(21L-1847) & (21L-5178)\TicTacToe\Debug\TicTacToe.exe

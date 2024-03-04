@@ -1,0 +1,8 @@
+Name			Roll no.	Section
+
+Umair Bin Asim		(21L-1847)	1F1
+Saad Hussain Kazmi	(21L-5178)	1F1
+
+
+1)  Open file "TicTacToe.exe" from debug folder to run game.
+2)  Enjoy! :)
