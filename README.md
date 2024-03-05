@@ -1,5 +1,5 @@
 # About
-
+![Alt Text](https://github.com/SaadKazmi/TicTacToe/blob/main/Screenshot%20(61).png)
 **Tic Tac Toe - Two Player Basic**
 
 Welcome to the world of classic gaming with our simple yet engaging two-player Tic Tac Toe project! 
